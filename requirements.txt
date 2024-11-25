@@ -1,0 +1,4 @@
+requests
+groq
+PyMuPDF
+streamlit
