@@ -56,7 +56,7 @@ def generate_chat_responses(chat_completion) -> str:
 
 
 def app():
-    st.title("Chatbot Especializado con PDF")
+    st.title("Chatbot Especializado TrustCoffe")
 
     # Caja de entrada para el enlace de Google Drive
     pdf_link = st.text_input(
