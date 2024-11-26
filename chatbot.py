@@ -60,7 +60,7 @@ def app():
 
     # Caja de entrada para el enlace de Google Drive
     pdf_link = st.text_input(
-        "Introduce el enlace del PDF de Google Drive:", "")
+        "Introduce la información:", "")
 
     if pdf_link:
         try:
